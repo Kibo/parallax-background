@@ -1,7 +1,7 @@
 {
   "name": "parallax-bg",
   "version": "0.9.1",
-  "description": "Paralax background a la https://github.com/404",
+  "description": "Parallax background a la https://github.com/404",
   "private": true,
  
   "dependencies": {},

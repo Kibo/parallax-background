@@ -5,7 +5,7 @@ Paralax background a la https://github.com/404
 - Without dependencies
 
 ##Example
-- [a la Github](#)
+- [a la Github](http://kibo.github.io/parallax-background/)
 
 ##Usage
 
