@@ -10,8 +10,7 @@
 	
 	images = document.querySelectorAll("#" + containerId + " img");
 	for (var idx = 0, len = images.length; idx < len; idx++) {
-		images[idx].parallax = {x:0, y:0, depth: images[idx].dataset.depth || (len - idx) * depth};	
-		console.log( images[idx].parallax );	
+		images[idx].parallax = {x:0, y:0, depth: images[idx].dataset.depth || (len - idx) * depth};		
 	}
 			
 	var transforms = ["transform", "msTransform", "webkitTransform", "mozTransform", "oTransform"];	
