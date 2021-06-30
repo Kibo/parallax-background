@@ -3,13 +3,11 @@
   "version": "0.9.1",
   "description": "Parallax background a la https://github.com/404",
   "private": true,
- 
   "dependencies": {},
-  
-  "devDependencies": {	
-	"grunt": "^0.4.4",
-	"grunt-contrib-jshint": "~0.6.3",
-	"grunt-contrib-uglify": "~0.2.2",	
-	"grunt-gh-pages":"*"
-   }   	
+  "devDependencies": {
+    "grunt": "^1.4.1",
+    "grunt-contrib-jshint": "^3.0.0",
+    "grunt-contrib-uglify": "^5.0.1",
+    "grunt-gh-pages": "^4.0.0"
+  }
 }
